@@ -1,0 +1,10 @@
+firefox.exe
+chrome.exe
+opera.exe
+iexplore.exe
+browser.exe
+searchbandapp64.exe
+searchbandapp32.exe
+dragon.exe
+USBrowser.exe
+amigo.exe

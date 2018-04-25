@@ -1,0 +1,6 @@
+firefox.exe  -  Find forbidden process
+firefox.exe  -  process succesfully terminated
+opera.exe  -  Find forbidden process
+opera.exe  -  process succesfully terminated
+chrome.exe  -  Find forbidden process
+chrome.exe  -  process succesfully terminated
