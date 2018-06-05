@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\никита\desktop\project2\project2\source.cpp(23): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(926): note:  см. объявление "mbstowcs"
+  Project2.vcxproj -> C:\Users\Никита\Desktop\Project2\Debug\Project2.exe
